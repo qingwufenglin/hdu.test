@@ -1,2 +1,2 @@
 # hdu.test
-this is a test repoidad
+this is a test repoi
