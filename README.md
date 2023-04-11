@@ -1,2 +1,2 @@
 # hdu.test
-personal practice.
+this is a test repoi
